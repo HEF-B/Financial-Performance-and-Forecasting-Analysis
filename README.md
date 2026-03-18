@@ -15,7 +15,6 @@ I analyzed a decade of financial data from Norwegian non-financial companies to 
 11. [Assumptions & Limitations](#11-assumptions--limitations)
 12. [Author](#12-author)
 
---
 ## 1. Project Overview
 
 <!--
