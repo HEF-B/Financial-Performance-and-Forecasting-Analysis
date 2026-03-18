@@ -5,28 +5,17 @@ I analyzed a decade of financial data from Norwegian non-financial companies to 
 1. [Project Overview](#1-project-overview)
 2. [Executive Summary](#2-executive-Summary)
 3. [Objectives](#3-objectives)
-4. [Tools & Technologies](#4-Tools--&--Technologies)
+4. [Tools & Technologies](#4-tools-&-technologies)
 5. [Repository Structure](#5-repository-structure)
 6. [Data Workflow](#6-data-workflow)
-7. [ERD - Entity Relationship Diagram](#7-erd--entity-relationship-diagram) *(SQL projects)*
+7. [ERD - Entity Relationship Diagram](#7-erd--entity-relationship-diagram)
 8. [Analysis & Metrics](#8-analysis--metrics)
 19. [Key Insights](#9-key-insights)
 10. [Recommendations](#10-recommendations)
 11. [Assumptions & Limitations](#11-assumptions--limitations)
 12. [Author](#12-author)
 
----
-Table of Contents
-
-Data Workflow
-
-Analysis & Metrics
-
-Key Insights
-
-Recommendations
-
-Assumptions & Limitations
+--
 ## 1. Project Overview
 
 <!--
@@ -48,13 +37,6 @@ Assumptions & Limitations
   (Too vague. Could describe 10,000 projects. Describes none of them.)
 -->
 
-**Context:** [The business, research, or personal situation that motivated this project.]
-
-**Problem Statement:** [The specific question or challenge you were addressing.]
-
-**Approach:** [In 1–2 sentences - how did you tackle it?]
-
-**Outcome:** [What did you produce or discover?]
 
 ---
 
