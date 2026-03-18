@@ -1,39 +1,32 @@
 # Financial Performance and Forecasting Analysis (2015–2024)
 I analyzed a decade of financial data from Norwegian non-financial companies to evaluate profitability, liquidity, and financial structure across industries—and built predictive models to measure COVID-19 impact and forecast future performance.
 
-
-## ⚙️ Project Type Flags
-> *Check what applies. This helps reviewers and collaborators understand the nature of the work at a glance. Delete this block before publishing.*
-
-- [ ] Exploratory Data Analysis (EDA)
-- [ ] SQL Analysis / Querying
-- [ ] Dashboard / Data Visualization
-- [ ] Data Pipeline / ETL
-- [ ] Predictive Modelling / Machine Learning
-- [ ] Data Cleaning / Wrangling
-- [ ] End-to-End (multiple of the above)
-- [ ] Other: ___________
-
----
-
 ## Table of Contents
 1. [Project Overview](#1-project-overview)
-2. [Objectives](#2-objectives)
-3. [Project Scope & Tools](#3-project-scope--tools)
-4. [Repository Structure](#4-repository-structure)
-5. [Data Workflow](#5-data-workflow)
-6. [Data Model & Schema](#6-data-model--schema)
+2. [Executive Summary](#2-Executive Summary)
+3. [Objectives](#3-objectives)
+4. [Tools & Technologies](#4-Tools--&--Technologies)
+5. [Repository Structure](#5-repository-structure)
+6. [Data Workflow](#6-data-workflow)
 7. [ERD - Entity Relationship Diagram](#7-erd--entity-relationship-diagram) *(SQL projects)*
 8. [Analysis & Metrics](#8-analysis--metrics)
-9. [Key Insights](#9-key-insights)
+19. [Key Insights](#9-key-insights)
 10. [Recommendations](#10-recommendations)
 11. [Assumptions & Limitations](#11-assumptions--limitations)
-12. [Future Enhancements](#12-future-enhancements)
-13. [Deliverables](#13-deliverables)
-14. [Author](#14-author)
+12. [Author](#12-author)
 
 ---
+Table of Contents
 
+Data Workflow
+
+Analysis & Metrics
+
+Key Insights
+
+Recommendations
+
+Assumptions & Limitations
 ## 1. Project Overview
 
 <!--
