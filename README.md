@@ -3,7 +3,7 @@ I analyzed a decade of financial data from Norwegian non-financial companies to 
 
 ## Table of Contents
 1. [Project Overview](#1-project-overview)
-2. [Executive Summary](#2-Executive Summary)
+2. [Executive Summary](#2-executive-Summary)
 3. [Objectives](#3-objectives)
 4. [Tools & Technologies](#4-Tools--&--Technologies)
 5. [Repository Structure](#5-repository-structure)
