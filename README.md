@@ -67,30 +67,28 @@ Norwegian non-financial companies emerged from the pandemic period more financia
 ## 5. Repository Structure
 
 ```
-[project-root]/
+financial-performance-analysis/
 │
 ├── data/
-│   ├── raw/                  # Original, unmodified source data - never edited
-│   ├── processed/            # Cleaned and transformed data
-│   └── external/             # Reference data, lookup tables, third-party files
+│   ├── raw/
+│   ├── processed/
 │
-├── notebooks/                # Jupyter, R Markdown, or Colab notebooks
+├── scripts/
+│   ├── global_impact_analysis.py
+│   ├── industrial_impact.py
+│   ├── forecasting.py
 │
-├── scripts/                  # Reusable .py, .R, or .sh processing files
+├── reports/
+│   └── Project Report.pdf
 │
-├── queries/                  # SQL files (retain this folder for SQL-heavy projects)
-│   ├── exploratory/          # Ad-hoc or investigative queries
-│   ├── transformations/      # Cleaning and reshaping logic
-│   └── final/                # Production-ready or presentation queries
+├── visuals/
+│   └── dashboard screenshots/
 │
-├── reports/                  # Final outputs: PDFs, slide decks, Word docs
-│
-├── visuals/                  # Exported charts, dashboard screenshots, ERD diagrams
-│
-├── docs/                     # Data dictionaries, schema notes, reference material
-│
-├── project_metadata.yml      # Machine-readable metadata (optional)
-└── README.md                 # You are here
+├── pbix/
+│   └── Industry Financials Dashboard.pbix
+│   └── Predictive Financial Analysis.pbix
+└── README.md
+
 ```
 
 > ⚠️ *Delete folders you didn't use. An empty folder is worse than no folder.*
