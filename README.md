@@ -58,13 +58,13 @@ Norwegian non-financial companies emerged from the pandemic period more financia
 | --------------- | ---------------------------------- |
 | Data Storage    | CSV (SSB Statbank)                 |
 | Data Processing | Excel, Power Query                 |
-| Analysis        | Python (pandas, linear regression) |
+| Analysis        | Python (linear regression) |
 | Visualization   | Power BI                           |
 | Version Control | GitHub                             |
 | Documentation   | Markdown                           |
 
 
-## 4. Repository Structure
+## 5. Repository Structure
 
 ```
 [project-root]/
