@@ -91,10 +91,7 @@ financial-performance-analysis/
 
 ```
 
-> ⚠️ *Delete folders you didn't use. An empty folder is worse than no folder.*
-> SQL-heavy projects: keep `queries/`. Analysis-only projects: keep `notebooks/`. Both? Keep both.
 
----
 
 ## 5. Data Workflow
 
