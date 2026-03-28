@@ -3,8 +3,8 @@ I analyzed a decade of financial data from Norwegian non-financial companies to 
 
 ## Table of Contents
 1. [Project Overview](#1-project-overview)
-2. [Executive Summary](#2-executive-Summary)
-3. [Objectives](#3-objectives)
+2. [Objectives](#3-objectives)
+3. [Executive Summary](#2-executive-Summary)
 4. [Tools & Technologies](#4-tools-&-technologies)
 5. [Repository Structure](#5-repository-structure)
 6. [Data Workflow](#6-data-workflow)
@@ -17,78 +17,34 @@ I analyzed a decade of financial data from Norwegian non-financial companies to 
 
 ## 1. Project Overview
 
-<!--
-  Write 3–5 sentences in plain language.
-  Cover: context → problem → approach → outcome.
-  Read it out loud. If it sounds like a form - rewrite it.
-
-  WHAT GOOD LOOKS LIKE:
-  "A mid-size retail business was seeing inconsistent revenue across
-  its regional stores but couldn't identify the root cause. This project
-  explored 18 months of transaction data across five regions to determine
-  whether underperformance was driven by sales volume, pricing, or return
-  rates. The analysis revealed that one region's gap was almost entirely
-  explained by an unusually high return rate on a single product category -
-  a finding invisible in the company's top-level reporting."
-
-  WHAT TO AVOID:
-  "This project analyzes sales data to find trends and insights."
-  (Too vague. Could describe 10,000 projects. Describes none of them.)
--->
-
-
----
+Understanding the long-term financial stability of the Norwegian private sector requires looking beyond surface-level financial reports. This project analyses non-financial companies over a 10-year period (2015–2024), covering major economic disruptions including COVID-19 and inflation shocks.
+Norwegian businesses experienced significant volatility due to pandemic disruptions, oil price fluctuations, and rising inflation.
+#### Problem Statement
+Raw financial data alone does not clearly show how economic shocks affected profitability, liquidity, and leverage across industries.
+#### Approach
+I combined profit & loss and balance sheet data from Statistics Norway, transformed it using Power Query, and built interactive dashboards in Power BI. In addition, I developed Python-based forecasting models using pre-COVID data (2015–2019) to estimate expected “no-crisis” performance and compare it with actual outcomes.
+#### Outcome
+- Interactive Power BI dashboard for financial analysis 
+- COVID impact analysis (actual vs expected performance) 
+- Industry-level recovery insights 
+- 5-year financial forecasts (2025–2029) with uncertainty range
 
 ## 2. Objectives
+- Analyze trends in revenue, operating profit, and net profit (2015–2024)
+- Examine changes in assets, equity, and liabilities over time
+- Determine relationship between profitability and financial structure
+- Quantify the impact of COVID-19 (pre, during, post periods)
+- Build a predictive model to estimate no-crisis baseline performance
+- Compare actual vs expected results to measure economic shock impact
+- Forecast key financial indicators for 2025–2029
 
-<!--
-  Write objectives that are specific enough to succeed or fail.
-  Use action-oriented verbs: Identify, Determine, Quantify, Build, Evaluate.
-
-  WHAT GOOD LOOKS LIKE:
-  ✅ "Determine whether customer churn rate correlates with support ticket volume."
-  ✅ "Identify the top three revenue-driving product categories across all regions."
-  ✅ "Build a reproducible pipeline that ingests and cleans daily sales exports."
-
-  WHAT TO AVOID:
-  ❌ "Explore the data."
-  ❌ "Gain insights."
-  ❌ "Understand trends."
-  (These can't fail - which means they can't succeed either.)
--->
-
-- **Primary Objective:** [The main thing you set out to do]
-- **Secondary Objective 1:** [Supporting goal]
-- **Secondary Objective 2:** [Supporting goal]
-- **Secondary Objective 3:** [Remove if not applicable]
-
-> 💡 *Every analysis decision in this project traces back to one of these objectives.*
-
----
-
-## 3. Project Scope & Tools
-
-### Scope
-
-<!--
-  WHAT GOOD LOOKS LIKE:
-  In Scope: "Transaction-level data for Regions A–E, Jan 2023–Jun 2024.
-             Analysis covers revenue, return rates, and product category performance."
-  Out of Scope: "Customer demographics and marketing spend data were excluded -
-                 demographic data was incomplete for two regions, and marketing
-                 data sits in a separate system outside this engagement."
-
-  WHAT TO AVOID:
-  ❌ Leaving Out of Scope blank. This is the section that protects your credibility.
-     If you don't define the fence, reviewers assume you missed things.
--->
-
-| Dimension | Details |
-|-----------|---------|
-| **In Scope** | [What is included - data sources, time periods, segments] |
-| **Out of Scope** | [What you explicitly excluded - and a brief reason why] |
-| **Time Period** | [Date range of the data or the project itself] |
-| **Granularity** | [Unit of analysis - row-level, daily aggregates, per-user, etc.] |
+## 3. Executive Summary
+The analysis reveals a definitive financial shock during the COVID-19 pandemic, followed by a structurally sound recovery across Norwegian industries. While profitability dipped sharply in covid, the subsequent rebound was driven by operational efficiency rather than simple revenue growth.
+Key Performance Indicators (2015–2024)
+•	Resilient Profitability: Net margins improved post-COVID as companies optimized cost structures to combat inflationary pressures.
+•	Strengthened Solvency: Equity ratios increased while leverage declined, signaling a strategic shift away from debt dependency.
+•	Stable Liquidity: Effective cash management ensured that liquidity remained stable during the crisis and improved slightly in the recovery phase.
+Norwegian non-financial companies emerged from the pandemic period more financially resilient, characterized by improved profit retention and significantly lower financial risk profiles.
 
 ### Tools & Technologies
 
