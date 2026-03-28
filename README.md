@@ -39,12 +39,18 @@ I combined profit & loss and balance sheet data from Statistics Norway, transfor
 - Forecast key financial indicators for 2025–2029
 
 ## 3. Executive Summary
+
+<img width="2615" height="1487" alt="1" src="https://github.com/user-attachments/assets/f5028df6-ac35-4b2c-9170-681a2d30508f" />
+
+---
 The analysis reveals a definitive financial shock during the COVID-19 pandemic, followed by a structurally sound recovery across Norwegian industries. While profitability dipped sharply in covid, the subsequent rebound was driven by operational efficiency rather than simple revenue growth.
-Key Performance Indicators (2015–2024)
-•	Resilient Profitability: Net margins improved post-COVID as companies optimized cost structures to combat inflationary pressures.
-•	Strengthened Solvency: Equity ratios increased while leverage declined, signaling a strategic shift away from debt dependency.
-•	Stable Liquidity: Effective cash management ensured that liquidity remained stable during the crisis and improved slightly in the recovery phase.
+### Key Performance Indicators (2015–2024)
+- **Resilient Profitability**, Net margins improved post-COVID as companies optimized cost structures to combat inflationary pressures.
+- **Strengthened Solvency**, Equity ratios increased while leverage declined, signaling a strategic shift away from debt dependency.
+- **Stable Liquidity**, Effective cash management ensured that liquidity remained stable during the crisis and improved slightly in the recovery phase.
+  
 Norwegian non-financial companies emerged from the pandemic period more financially resilient, characterized by improved profit retention and significantly lower financial risk profiles.
+
 
 ### Tools & Technologies
 
