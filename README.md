@@ -52,24 +52,17 @@ The analysis reveals a definitive financial shock during the COVID-19 pandemic, 
 Norwegian non-financial companies emerged from the pandemic period more financially resilient, characterized by improved profit retention and significantly lower financial risk profiles.
 
 
-### Tools & Technologies
+## 4. Tools & Technologies
 
-<!--
-  List only what you actually used on this project.
-  This is not your skills section - it's the project's technical context.
--->
+| Category        | Tools used                              
+| --------------- | ---------------------------------- |
+| Data Storage    | CSV (SSB Statbank)                 |
+| Data Processing | Excel, Power Query                 |
+| Analysis        | Python (pandas, linear regression) |
+| Visualization   | Power BI                           |
+| Version Control | GitHub                             |
+| Documentation   | Markdown                           |
 
-| Category | Tool(s) Used |
-|----------|-------------|
-| Data Storage | [e.g., PostgreSQL, CSV files, BigQuery, S3] |
-| Data Processing | [e.g., Python, R, SQL, Excel, dbt] |
-| Analysis | [e.g., pandas, dplyr, custom SQL queries] |
-| Visualization | [e.g., Matplotlib, Tableau, Power BI, Looker] |
-| Version Control | [e.g., Git / GitHub] |
-| Documentation | [e.g., Markdown, Notion] |
-| Other | [Any additional tools] |
-
----
 
 ## 4. Repository Structure
 
