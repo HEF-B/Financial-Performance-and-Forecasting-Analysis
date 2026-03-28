@@ -92,8 +92,7 @@ financial-performance-analysis/
 ```
 
 
-
-## 5. Data Workflow
+## 6. Data Workflow
 
 <!--
   Show how data moved through your project - from source to output.
