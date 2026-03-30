@@ -2,21 +2,10 @@
 I analyzed a decade of financial data from Norwegian non-financial companies to evaluate profitability, liquidity, and financial structure across industries—and built predictive models to measure COVID-19 impact and forecast future performance.
 
 ## Table of Contents
-
-4. [Tools & Technologies](#4-tools-&-technologies)
-5. [Repository Structure](#5-repository-structure)
-6. [Data Workflow](#6-data-workflow)
-7. [ERD - Entity Relationship Diagram](#7-erd--entity-relationship-diagram)
-8. [Analysis & Metrics](#8-analysis--metrics)
-19. [Key Insights](#9-key-insights)
-10. [Recommendations](#10-recommendations)
-11. [Assumptions & Limitations](#11-assumptions--limitations)
-12. [Author](#12-author)
-
 1. [Project Overview](#1-project-overview)
 2. [Objectives](#2-objectives)
 3. [Executive Summary](#3-executive-Summary)
-4. [Tools & Technologies](#4-tools-&-technologies)
+4. [Tools & Technologies](#4-tools--technologies)
 5. [Repository Structure](#5-repository-structure)
 6. [Data Workflow](#6-data-workflow)
 7. [Key Metrics](#7-key-metrics)
