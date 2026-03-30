@@ -198,62 +198,25 @@ Revenue and profitability dropped sharply in 2020, followed by a rapid recovery 
 
 ## 9. Recommendations
 
-<!--
-  Action-oriented. Addressed to a real audience.
-  Tied explicitly to the insight that supports each one.
-
-  WHAT GOOD LOOKS LIKE:
-  Priority: High
-  Recommendation: "Conduct a fulfilment audit for home goods deliveries
-                   in Region A - specifically investigating whether returns
-                   correlate with a particular warehouse, carrier, or SKU batch."
-  Based On: Insight 1 - return rate anomaly in Region A
-  Owner: Operations / Supply Chain team
-
-  WHAT TO AVOID:
-  ❌ "Improve the return rate."
-     (Not actionable. Doesn't say who, how, or where to start.)
-  ❌ "Further analysis is needed."
-     (This is a placeholder, not a recommendation.)
--->
-
 | Priority | Recommendation | Based On | Suggested Owner |
 |----------|---------------|----------|-----------------|
-| High | [Specific, actionable step] | [Insight it comes from] | [Who should act] |
-| Medium | [Specific, actionable step] | [Insight it comes from] | [Who should act] |
-| Low | [Exploratory or longer-term suggestion] | [Insight it comes from] | [Who should act] |
-
----
+| High | Monitor industries with slow recovery (e.g. education) | Uneven recovery trends | Policy makers |
+| High | Use deviation analysis to identify financial risk sectors | Crisis impact analysis | Banks / Analysts |
+| Medium | Benchmark company performance against industry trends | Industry comparison insights | Business managers |
+| Low | Improve forecasting models with more advanced ML methods | Model limitations | Data teams |
 
 ## 10. Assumptions & Limitations
 
-<!--
-  WHAT GOOD LOOKS LIKE:
-  Assumption: "Transaction records were assumed to be complete for all five regions.
-               No validation was performed against source system record counts."
-  Limitation: "The analysis cannot distinguish between returns initiated by
-               the customer vs. returns initiated by the business (e.g., recalls).
-               If business-initiated returns are concentrated in Region A, the
-               return rate finding may reflect a policy decision, not a quality issue."
-
-  WHAT TO AVOID:
-  ❌ Leaving this section blank or writing "None known."
-     Every project has limitations. Documenting them is a sign of
-     analytical maturity - not a confession of failure.
--->
-
 ### Assumptions
-- [What did you treat as true without being able to verify?]
-- [What simplifications did you make for scope or feasibility?]
-- [What domain rules or definitions did you accept as given?]
-
+- Pre-COVID period (2015–2019) represents a stable baseline
+- Linear regression adequately captures trend direction
+- Financial ratios reflect real economic performance
+  
 ### Limitations
-- [What gaps exist in the data?]
-- [What analysis was out of scope but could affect interpretation?]
-- [What would a more rigorous version of this project include?]
-- [Are there known biases in the data source or collection method?]
-
-> *The goal here is pre-emptive Q&A. What would a thoughtful skeptic push back on? Document the answer here, before they ask.*
+- Data is at an industry-aggregate level, which may mask individual company successes or failures.
+- The forecasting model does not account for unforeseen "Black Swan" geopolitical events in 2025; it relies strictly on historical trends.
+- Forecasts include uncertainty and are not guaranteed outcomes
+- External factors (policy changes, global markets) not fully included
 
 ---
 
@@ -263,6 +226,4 @@ Revenue and profitability dropped sharply in 2020, followed by a rapid recovery 
 - 🔗 linkedin.com/in/Florence B
 - 💼 Portfolio:https://hef-b.github.io/
 - 📧 dainsights@proton.me
-
----
 
