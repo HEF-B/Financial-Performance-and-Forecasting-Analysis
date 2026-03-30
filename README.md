@@ -147,81 +147,54 @@ Output
 
 ```
 
-## 7. Analysis & Metrics
+## 7. Key Metrics
 
-<!--
-  Explain what you measured and how - before you share what you found.
-
-  WHAT GOOD LOOKS LIKE:
-  Metric: "Customer Return Rate"
-  Definition: "Number of transactions flagged as returns divided by total
-               transactions, calculated at product-category and regional grain."
-  Why It Matters: "Return rate - not sales volume - was hypothesised to
-                  explain regional revenue gaps. This metric tests that hypothesis."
-
-  WHAT TO AVOID:
-  ❌ Defining a metric only in code: SUM(returns) / COUNT(transaction_id)
-     That's an implementation. Write the plain-language definition here.
-     Both belong in your project - the definition in the README,
-     the implementation in the code.
--->
-
-### Analytical Approach
-
-[Describe how you approached the analysis. Were you exploring patterns? Testing a hypothesis? Building and validating a pipeline? Be honest about your method - exploratory work is valid, just call it that.]
-
-### Key Metrics Defined
-
-| Metric | Plain-Language Definition | Why It Matters |
+| Metric | Definition | Why It Matters |
 |--------|--------------------------|----------------|
-| `[Metric 1]` | [What it measures, in one sentence] | [What decision or question it answers] |
-| `[Metric 2]` | [What it measures, in one sentence] | [What decision or question it answers] |
-| `[Metric 3]` | [What it measures, in one sentence] | [What decision or question it answers] |
+| Net Profit Margin | Net profit as % of revenue | Measures profitability efficiency |
+| Equity Ratio | Equity / Total Assets| Indicates financial stability |
+| Leverage Ratio | Liabilities / Equity | Measures financial risk|
+| Liquidity Ratio | Current assets vs liabilities| Indicates short-term solvency |
+| Deviation % | (Actual - Expected) | Expected	Quantifies crisis impact|
 
 ### Methods Used
-
-- [e.g., Descriptive statistics - distribution, central tendency, outlier detection]
-- [e.g., Trend analysis across [time period]]
-- [e.g., Segmentation / group comparison by [dimension]]
-- [e.g., Correlation analysis between [variable A] and [variable B]]
-- [e.g., SQL window functions for [specific aggregation]]
-- [e.g., Custom aggregation or transformation logic in [tool]]
-
----
+- Time-series trend analysis (2015–2024)
+- Pre vs During vs Post COVID comparison
+- Industry segmentation analysis
+- Linear regression (baseline modeling)
+- Forecasting with uncertainty bands (±15%)
 
 ## 8. Key Insights
 
 <!--
-  Findings + implications. Not just what happened - what it means.
+  c
 
-  WHAT GOOD LOOKS LIKE:
-  ✅ "Return rates, not sales volume, explain Region A's underperformance.
-      Region A's return rate on home goods was 34% - more than double the
-      company average. Revenue was not lost at the point of sale; it was
-      lost post-sale through refunds. This points to a fulfilment or
-      product quality issue specific to that region, not a demand problem."
-
-  WHAT TO AVOID:
-  ❌ "Region A had lower revenue than other regions in Q4."
-     (That's an observation. It describes what happened.
-      An insight says what it means and where to look next.)
-
-  Aim for 3–6 insights. Quality over quantity.
+Revenue and profitability dropped sharply in 2020, followed by a rapid recovery that exceeded pre-COVID levels by 2021. This pattern indicates strong resilience across Norwegian industries, supported by effective cost control and external support measures. The trend suggests that the crisis impact was temporary rather than structural, with most sectors recovering quickly.
 -->
 
-**Insight 1: [Short descriptive headline]**
-[What you found + what it suggests. One short paragraph.]
+#### **COVID-19 Shock and Recovery**
+<img width="2689" height="1475" alt="Skjermbilde 2026-02-25 002944" src="https://github.com/user-attachments/assets/9c3ee2fe-72b6-4e0a-91ed-86884110b39f" />
 
-**Insight 2: [Short descriptive headline]**
-[What you found + what it suggests.]
+Revenue and profitability dropped sharply in 2020, followed by a rapid recovery that exceeded pre-COVID levels by 2021. This pattern indicates strong resilience across Norwegian industries, supported by effective cost control and external support measures. The trend suggests that the crisis impact was temporary rather than structural, with most sectors recovering quickly.
 
-**Insight 3: [Short descriptive headline]**
-[What you found + what it suggests.]
 
-**Insight 4 (if applicable): [Short descriptive headline]**
-[What you found + what it suggests.]
+#### **COVID-19 Shock and Recovery**
+<img width="2648" height="1492" alt="Skjermbilde 2026-02-25 003228" src="https://github.com/user-attachments/assets/c31d4c87-3d94-4082-9819-90a18f70d993" />
 
----
+
+
+#### **COVID-19 Shock and Recovery**
+<img width="2240" height="1275" alt="4" src="https://github.com/user-attachments/assets/f0ad9df4-c262-4b6b-8265-3f58a09e8106" />
+
+
+#### **COVID-19 Shock and Recovery**
+<img width="2659" height="1492" alt="Skjermbilde 2026-02-25 005119" src="https://github.com/user-attachments/assets/08819b5f-3a88-4fe3-9de8-6c031a2cc1e9" />
+
+
+#### **COVID-19 Shock and Recovery**
+<img width="2651" height="1370" alt="Skjermbilde 2026-02-25 003626" src="https://github.com/user-attachments/assets/e8efb729-5600-4d44-a933-62770c25b567" />
+
+
 
 ## 9. Recommendations
 
