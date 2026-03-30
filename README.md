@@ -22,7 +22,7 @@ I analyzed a decade of financial data from Norwegian non-financial companies to 
 7. [Key Metrics](#7-key-metrics)
 8. [Key Insights](#8-key-insights)
 9. [Recommendations](#9-recommendations)
-10. [Assumptions & Limitations](#10-assumptions-&-limitations)
+10. [Assumptions & Limitations](#10-assumptions--limitations)
 11. [Author](#11-author)
 
 ## 1. Project Overview
