@@ -15,6 +15,18 @@ I analyzed a decade of financial data from Norwegian non-financial companies to 
 11. [Assumptions & Limitations](#11-assumptions--limitations)
 12. [Author](#12-author)
 
+1. [Project Overview](#project overview)
+2. [Objectives](#objectives)
+3. [Executive Summary](#executive summary)
+4. [Tools & Technologies](#tools & technologies)
+5. [Repository Structure](#repository structure)
+6. [Data Workflow](#data workflow)
+7. [Key Metrics](#key metrics)
+8. [Key Insights](#key insights)
+9. [Recommendations](#recommendations)
+10. [Assumptions & Limitations](#assumptions & limitations)
+11. [Author](#author)
+
 ## 1. Project Overview
 
 Understanding the long-term financial stability of the Norwegian private sector requires looking beyond surface-level financial reports. This project analyses non-financial companies over a 10-year period (2015–2024), covering major economic disruptions including COVID-19 and inflation shocks.
@@ -218,7 +230,6 @@ Revenue and profitability dropped sharply in 2020, followed by a rapid recovery 
 - Forecasts include uncertainty and are not guaranteed outcomes
 - External factors (policy changes, global markets) not fully included
 
----
 
 ## 11. Author
 
