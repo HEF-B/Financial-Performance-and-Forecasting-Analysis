@@ -19,11 +19,11 @@ I analyzed a decade of financial data from Norwegian non-financial companies to 
 4. [Tools & Technologies](#4-tools-&-technologies)
 5. [Repository Structure](#5-repository-structure)
 6. [Data Workflow](#6-data-workflow)
-7. [Key Metrics](#7-analysis-metrics)
+7. [Key Metrics](#7-key-metrics)
 8. [Key Insights](#8-key-insights)
 9. [Recommendations](#9-recommendations)
-10. [Assumptions & Limitations](#11-assumptions-&-limitations)
-11. [Author](#12-author)
+10. [Assumptions & Limitations](#10-assumptions-&-limitations)
+11. [Author](#11-author)
 
 ## 1. Project Overview
 
