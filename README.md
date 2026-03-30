@@ -2,9 +2,7 @@
 I analyzed a decade of financial data from Norwegian non-financial companies to evaluate profitability, liquidity, and financial structure across industries—and built predictive models to measure COVID-19 impact and forecast future performance.
 
 ## Table of Contents
-1. [Project Overview](#1-project-overview)
-2. [Objectives](#3-objectives)
-3. [Executive Summary](#2-executive-Summary)
+
 4. [Tools & Technologies](#4-tools-&-technologies)
 5. [Repository Structure](#5-repository-structure)
 6. [Data Workflow](#6-data-workflow)
@@ -18,14 +16,14 @@ I analyzed a decade of financial data from Norwegian non-financial companies to 
 1. [Project Overview](#1-project-overview)
 2. [Objectives](#2-objectives)
 3. [Executive Summary](#3-executive-Summary)
-4. [Tools & Technologies](#tools & technologies)
-5. [Repository Structure](#repository structure)
-6. [Data Workflow](#data workflow)
-7. [Key Metrics](#key metrics)
-8. [Key Insights](#key insights)
-9. [Recommendations](#recommendations)
-10. [Assumptions & Limitations](#assumptions & limitations)
-11. [Author](#author)
+4. [Tools & Technologies](#4-tools-&-technologies)
+5. [Repository Structure](#5-repository-structure)
+6. [Data Workflow](#6-data-workflow)
+7. [Key Metrics](#7-analysis-metrics)
+8. [Key Insights](#8-key-insights)
+9. [Recommendations](#9-recommendations)
+10. [Assumptions & Limitations](#11-assumptions-&-limitations)
+11. [Author](#12-author)
 
 ## 1. Project Overview
 
