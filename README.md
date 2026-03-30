@@ -15,9 +15,9 @@ I analyzed a decade of financial data from Norwegian non-financial companies to 
 11. [Assumptions & Limitations](#11-assumptions--limitations)
 12. [Author](#12-author)
 
-1. [Project Overview](#project overview)
-2. [Objectives](#objectives)
-3. [Executive Summary](#executive summary)
+1. [Project Overview](#1-project-overview)
+2. [Objectives](#2-objectives)
+3. [Executive Summary](#3-executive-Summary)
 4. [Tools & Technologies](#tools & technologies)
 5. [Repository Structure](#repository structure)
 6. [Data Workflow](#data workflow)
