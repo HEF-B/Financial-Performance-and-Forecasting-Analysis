@@ -165,36 +165,75 @@ Output
 
 ## 8. Key Insights
 
-<!--
-  c
-
-Revenue and profitability dropped sharply in 2020, followed by a rapid recovery that exceeded pre-COVID levels by 2021. This pattern indicates strong resilience across Norwegian industries, supported by effective cost control and external support measures. The trend suggests that the crisis impact was temporary rather than structural, with most sectors recovering quickly.
--->
-
-#### **COVID-19 Shock and Recovery**
+#### **Financial Performance**
 <img width="2689" height="1475" alt="Skjermbilde 2026-02-25 002944" src="https://github.com/user-attachments/assets/9c3ee2fe-72b6-4e0a-91ed-86884110b39f" />
 
-Revenue and profitability dropped sharply in 2020, followed by a rapid recovery that exceeded pre-COVID levels by 2021. This pattern indicates strong resilience across Norwegian industries, supported by effective cost control and external support measures. The trend suggests that the crisis impact was temporary rather than structural, with most sectors recovering quickly.
+**Profit Recovery Driven by Structural Cost Efficiency**
 
+**Pattern:** Revenue and operating expenses declined during COVID-19, but in the post-COVID period, profit grew at a faster rate than both, with a visibly widening gap between revenue and costs.
 
-#### **COVID-19 Shock and Recovery**
+**Interpretation:** The divergence between revenue and operating expenses indicates that companies improved cost structures during the crisis reducing or optimizing expenses and maintained this efficiency during recovery.
+
+**Impact:** Profit growth is being driven by structural efficiency rather than top-line expansion. This suggests more resilient and scalable operations, positioning companies to sustain profitability even under future economic pressure.
+
+**Post-COVID Strengthening of Financial Structure**
+
+**Pattern:** Assets, liabilities, and equity declined during the COVID-19 period, followed by a strong recovery, with equity growing at a more stable pace relative to liabilities.
+
+**Interpretation:** During the crisis, companies adjusted balance sheets by limiting growth and preserving capital. In the recovery phase, equity accumulation outpaced reliance on debt, indicating a shift toward stronger internal financing.
+
+**Impact:** The post-COVID period reflects a structurally stronger financial position, with improved balance sheet resilience and reduced dependence on leverage, lowering overall financial risk.
+
+---
+#### **COVID-19 Shock and Fast Recovery**
 <img width="2648" height="1492" alt="Skjermbilde 2026-02-25 003228" src="https://github.com/user-attachments/assets/c31d4c87-3d94-4082-9819-90a18f70d993" />
 
+**Pattern:** Revenue, EBIT, and Net Profit dropped clearly in 2020, then bounced back quickly and even exceeded pre-COVID levels by 2021–2022.
 
+**Interpretation:** All key metrics falling at the same time shows how widespread the impact was. But the quick rebound suggests companies adapted fast and were supported during the crisis.
 
-#### **COVID-19 Shock and Recovery**
+**Impact:** The downturn didn’t last long. Most companies recovered quickly and returned to growth, which points to a strong and resilient business environment.
+
+---
+#### **Financial Stability Varies Significantly Across Industries**
 <img width="2240" height="1275" alt="4" src="https://github.com/user-attachments/assets/f0ad9df4-c262-4b6b-8265-3f58a09e8106" />
 
+**Pattern:** 
+- **Revenue:** Wholesale trade (~17M) and mining (~13M) generate the highest revenues, followed by manufacturing (~8M). However, manufacturing also carries high liabilities relative to its size.
+- **Profitability Efficiency:** Real estate and mining hold the largest asset bases, while sectors such as education and other services operate with low assets, equity, and margins.
+- **Financial Stability:** Real estate achieves the highest net margins and holds strong equity levels (>15M), despite not being the top revenue generator. Smaller or niche categories also show disproportionately high margins.
 
-#### **COVID-19 Shock and Recovery**
+**Interpretation:**
+- High-revenue industries are often capital-intensive and require significant ongoing investment, leading to higher financial obligations and risk exposure.
+- Profitability is driven more by business model efficiency than by revenue scale. Asset-based sectors like real estate benefit from stable income streams and lower operating costs.
+- Capital-intensive industries build financial buffers through assets, while service-based sectors operate with limited reserves and higher vulnerability to shocks.
+  
+**Impact:**
+- Revenue alone is not a reliable indicator of financial health. High-revenue sectors like manufacturing may face tighter margins and higher risk, requiring closer monitoring of leverage and cost structure.
+- High-margin sectors represent more sustainable values. Investors and decision-makers should prioritize efficiency metrics (e.g., margins, returns) over revenue size when assessing performance.
+- Financial resilience is uneven across industries. Asset-heavy sectors are better positioned to absorb economic shocks, while smaller service sectors may require external support during downturns.
+
+---
+#### **Uneven Industry Recovery Driven by Structural Differences**
 <img width="2659" height="1492" alt="Skjermbilde 2026-02-25 005119" src="https://github.com/user-attachments/assets/08819b5f-3a88-4fe3-9de8-6c031a2cc1e9" />
 
+**Pattern:** While most industries recovered by 2021, recovery speed varied significantly. Real estate, mining, and agriculture exceeded expected performance (+17% to +34%), whereas education (-8.9%), administrative services (-5.6%), and hospitality-related sectors remained below baseline and recovered later (2022–2023).
 
-#### **COVID-19 Shock and Recovery**
+**Interpretation:** Asset-heavy and capital-driven industries benefited from rising asset values and stable demand, while service-based sectors dependent on physical interaction faced prolonged disruption and slower demand recovery.
+
+**Impact:** Recovery is structurally uneven across industries, indicating that financial resilience depends on sector characteristics. This suggests that risk assessment, investment decisions, and policy support should be industry-specific rather than broadly applied.
+
+---
+#### **Actual Performance vs Forecast**
 <img width="2651" height="1370" alt="Skjermbilde 2026-02-25 003626" src="https://github.com/user-attachments/assets/e8efb729-5600-4d44-a933-62770c25b567" />
 
+**Pattern:** Across most indicators, the actual 2024 values follow the same upward trend as the forecast, but stay slightly below the expected (no-crisis) levels especially for total assets, fixed assets, and equity.
 
+**Interpretation:** The overall direction shows that companies recovered and continued to grow, but not fully at the pace predicted without COVID. The gap suggests that some long-term effects of the crisis are still present, particularly in capital growth.
 
+**Impact:** While the recovery is strong, it is not fully complete. This indicates that businesses are on a solid growth path, but still have some ground to cover to reach their full expected potential.
+
+---
 ## 9. Recommendations
 
 | Priority | Recommendation | Based On | Suggested Owner |
