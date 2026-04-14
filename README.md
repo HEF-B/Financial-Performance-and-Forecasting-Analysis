@@ -77,15 +77,16 @@ financial-performance-analysis/
 │   ├── industrial_impact.py
 │   ├── forecasting.py
 │
-├── reports/
-│   └── Project Report.pdf
 │
 ├── visuals/
 │   └── dashboard screenshots/
 │
+│
 ├── pbix/
 │   └── Industry Financials Dashboard.pbix
 │   └── Predictive Financial Analysis.pbix
+│
+│
 └── README.md
 
 ```
